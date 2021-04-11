@@ -1,4 +1,4 @@
-flight_id,departure_city,arrival_city,total_amount,sold_bp,all_bp,model,minutes_of_fly,longitude,latitude,actual_arrival
+flight_id,departure_city,arrival_city,total_amount,sold_boarding_passes,all_boarding_passes,model,minutes_of_fly,longitude,latitude,actual_arrival
 136807,Anapa,Belgorod,531000.00,68,97,Sukhoi Superjet-100,50.0,36.5900993347168,50.643798828125,2017-02-23T10:18:00Z
 136642,Anapa,Belgorod,531000.00,64,97,Sukhoi Superjet-100,49.0,36.5900993347168,50.643798828125,2017-01-30T10:17:00Z
 136844,Anapa,Belgorod,575100.00,79,97,Sukhoi Superjet-100,50.0,36.5900993347168,50.643798828125,2017-02-28T10:16:00Z
