@@ -1,3 +1,5 @@
+# [Ноутбук](https://github.com/Sly-Dog/skillfactory_rds/blob/main/module_1/Movies_IMBD_v4.1_TEMPLATE.ipynb)
+
 # Задача проекта - проанализировать датасет и попробовать ответить на все пункты викторины
 
  Количество набранных в викторине баллов - 27/27
