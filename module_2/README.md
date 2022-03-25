@@ -1,3 +1,5 @@
+# [Ноутбук](https://github.com/Sly-Dog/skillfactory_rds/blob/main/module_2/stud_math_EDA.ipynb)
+
 # Основные цели и задачи проекта
 >Провести разведывательный анализ данных
 
