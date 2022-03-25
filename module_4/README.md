@@ -5,4 +5,4 @@
 - Файл dataset.csv содержит очищенный датасет с рейсами, подлежащими сокращению.
 - Файл query_code.txt содержит итоговый запрос к базе данных  
 
-![image](https://user-images.githubusercontent.com/74059716/160072922-cb164d37-0005-4ad8-bb82-1f9dd3111cc2.png)
+![image](https://user-images.githubusercontent.com/74059716/160073442-9de84430-2fbe-4b3d-b51a-20adaefc01c9.png)
